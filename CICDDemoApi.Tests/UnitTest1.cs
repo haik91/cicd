@@ -5,7 +5,7 @@ namespace CICDDemoApi.Tests
         [Fact]
         public void DummyTest_ShouldPass()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
     }
 }
